@@ -1,4 +1,4 @@
-# RealEstateApp
+# Property Management System
 
 Full-stack Real estate web application with React frontend and Node/Express backend. Provides property listing, posting, chat, likes, and user management.
 
